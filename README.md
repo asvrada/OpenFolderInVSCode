@@ -1,4 +1,4 @@
-# Open a Folder in Visual Studio Code
+# Open Folder/File in Visual Studio Code
 
 ## The macOS service
 
